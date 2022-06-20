@@ -2,7 +2,7 @@
 // Kalian bisa membuat CSS sendiri di src/components/Contact.css
 import React from 'react';
 
-const Contact = () => {
+const Contact = (props) => {
     return (
         <></>
     )
